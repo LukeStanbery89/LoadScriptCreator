@@ -1,0 +1,21 @@
+C:\Users\LukeS\AppData\Local\Temporary Projects\Load Script Creator\bin\Debug\Load Script Creator.exe
+C:\Users\LukeS\AppData\Local\Temporary Projects\Load Script Creator\bin\Debug\Load Script Creator.pdb
+C:\Users\LukeS\AppData\Local\Temporary Projects\Load Script Creator\obj\x86\Debug\Load_Script_Creator.Form1.resources
+C:\Users\LukeS\AppData\Local\Temporary Projects\Load Script Creator\obj\x86\Debug\Load_Script_Creator.Properties.Resources.resources
+C:\Users\LukeS\AppData\Local\Temporary Projects\Load Script Creator\obj\x86\Debug\Load Script Creator.csproj.GenerateResource.Cache
+C:\Users\LukeS\AppData\Local\Temporary Projects\Load Script Creator\obj\x86\Debug\Load Script Creator.exe
+C:\Users\LukeS\AppData\Local\Temporary Projects\Load Script Creator\obj\x86\Debug\Load Script Creator.pdb
+C:\Users\LukeS\documents\visual studio 2010\Projects\Load Script Creator\Load Script Creator\obj\x86\Debug\Load Script Creator.exe
+C:\Users\LukeS\documents\visual studio 2010\Projects\Load Script Creator\Load Script Creator\obj\x86\Debug\Load Script Creator.pdb
+C:\Users\LukeS\documents\visual studio 2010\Projects\Load Script Creator\Load Script Creator\bin\Debug\Load Script Creator.exe
+C:\Users\LukeS\documents\visual studio 2010\Projects\Load Script Creator\Load Script Creator\bin\Debug\Load Script Creator.pdb
+C:\Users\LukeS\documents\visual studio 2010\Projects\Load Script Creator\Load Script Creator\obj\x86\Debug\Load_Script_Creator.Properties.Resources.resources
+C:\Users\LukeS\documents\visual studio 2010\Projects\Load Script Creator\Load Script Creator\obj\x86\Debug\Load Script Creator.csproj.GenerateResource.Cache
+C:\Users\LukeS\Documents\Visual Studio 2010\Projects\Load Script Creator\Load Script Creator\obj\x86\Debug\Load Script Creator.csprojResolveAssemblyReference.cache
+C:\Users\LukeS\Documents\Visual Studio 2010\Projects\Load Script Creator\Load Script Creator\obj\x86\Debug\Load Script Creator.csproj.ResolveComReference.cache
+C:\Users\LukeS\Documents\Visual Studio 2010\Projects\Load Script Creator\Load Script Creator\obj\x86\Debug\Load_Script_Creator.MainWindow.resources
+C:\Users\LukeS\Documents\Visual Studio 2010\Projects\Load Script Creator\Load Script Creator\obj\x86\Debug\Load_Script_Creator.WorksheetDisplayWindow.resources
+C:\Users\LukeS\Documents\Visual Studio 2010\Projects\Load Script Creator\Load Script Creator\obj\x86\Debug\Load_Script_Creator.WorksheetSelectionBox.resources
+C:\Users\Luke\Documents\Visual Studio 2013\Projects\Load Script Creator\Load Script Creator\obj\x86\Debug\Load Script Creator.csproj.ResolveComReference.cache
+C:\Users\Luke\Documents\Visual Studio 2013\Projects\Load Script Creator\Load Script Creator\obj\x86\Debug\Load Script Creator.exe
+C:\Users\Luke\Documents\Visual Studio 2013\Projects\Load Script Creator\Load Script Creator\obj\x86\Debug\Load Script Creator.pdb

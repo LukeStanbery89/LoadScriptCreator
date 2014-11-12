@@ -1,0 +1,10 @@
+C:\Users\LukeS\Documents\Visual Studio 2010\Projects\Load Script Creator\Load Script Creator\bin\Release\Load Script Creator.exe
+C:\Users\LukeS\Documents\Visual Studio 2010\Projects\Load Script Creator\Load Script Creator\bin\Release\Load Script Creator.pdb
+C:\Users\LukeS\Documents\Visual Studio 2010\Projects\Load Script Creator\Load Script Creator\obj\x86\Release\Load_Script_Creator.Properties.Resources.resources
+C:\Users\LukeS\Documents\Visual Studio 2010\Projects\Load Script Creator\Load Script Creator\obj\x86\Release\Load Script Creator.csproj.GenerateResource.Cache
+C:\Users\LukeS\Documents\Visual Studio 2010\Projects\Load Script Creator\Load Script Creator\obj\x86\Release\Load Script Creator.exe
+C:\Users\LukeS\Documents\Visual Studio 2010\Projects\Load Script Creator\Load Script Creator\obj\x86\Release\Load Script Creator.pdb
+C:\Users\LukeS\Documents\Visual Studio 2010\Projects\Load Script Creator\Load Script Creator\obj\x86\Release\Load Script Creator.csproj.ResolveComReference.cache
+C:\Users\LukeS\Documents\Visual Studio 2010\Projects\Load Script Creator\Load Script Creator\obj\x86\Release\Load_Script_Creator.WorksheetSelectionBox.resources
+C:\Users\LukeS\Documents\Visual Studio 2010\Projects\Load Script Creator\Load Script Creator\obj\x86\Release\Load_Script_Creator.MainWindow.resources
+C:\Users\LukeS\Documents\Visual Studio 2010\Projects\Load Script Creator\Load Script Creator\obj\x86\Release\Load_Script_Creator.WorksheetDisplayWindow.resources
